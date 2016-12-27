@@ -4,7 +4,3 @@ branch feature1
 on branch master feature1
 =====
 on feature3
-===
-dads
-==
-reset
