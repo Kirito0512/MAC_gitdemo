@@ -1,3 +1,7 @@
 dshjahdjkad
 asdhjakdhaj
-master
+<<<<<<< HEAD
+master feather11
+=======
+feather111
+>>>>>>> feature1
