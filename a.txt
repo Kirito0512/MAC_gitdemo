@@ -2,7 +2,11 @@ xuqi1117
 branch feature1
 =======
 on branch master feature1
+<<<<<<< HEAD
 =====
 on feature3
 ===
 testtestdadad
+=======
+===
+>>>>>>> fcceb73ab5e3b6da42d9a53b6e59de42e3cfd5fa
